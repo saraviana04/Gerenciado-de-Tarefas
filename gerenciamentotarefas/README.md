@@ -145,3 +145,4 @@ Exemplo de criação:
 - Em `dev` o banco H2 é em memória. Ao reiniciar a aplicação, os dados são perdidos.
 - Em `prod` o H2 é arquivo local (`./data`). Para persistência real, troque o banco e ajuste o `application-prod.properties`.
 - Para rodar testes: `./mvnw test`.
+# Gerenciado-de-Tarefas
